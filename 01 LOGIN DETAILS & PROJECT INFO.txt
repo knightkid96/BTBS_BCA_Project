@@ -5,13 +5,3 @@
 
 
 **Recommended PHP Version 5, 7**
-
-
-**Admin Login Details** 
-
-Username: owner
-Password: codeastro.com
-
-Username: admin
-Password: codeastro.com
-
