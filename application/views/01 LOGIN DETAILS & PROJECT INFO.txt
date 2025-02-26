@@ -1,17 +1,9 @@
-**Log on to codeastro.com for more projects!**
+
 
 **Database Name: busticketci**
 
-**Developed by Bahyu Sanciko**
+**Developed by Tejas S**
 
 **Recommended PHP Version 5, 7**
 
-
-**Admin Login Details** 
-
-Username: owner
-Password: codeastro.com
-
-Username: admin
-Password: codeastro.com
 
