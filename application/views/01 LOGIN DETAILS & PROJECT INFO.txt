@@ -8,10 +8,3 @@
 
 
 **Admin Login Details** 
-
-Username: owner
-Password: codeastro.com
-
-Username: admin
-Password: codeastro.com
-
